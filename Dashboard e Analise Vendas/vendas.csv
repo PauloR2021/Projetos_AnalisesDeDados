@@ -1,0 +1,31 @@
+ID;Data;Produto;Categoria;Quantidade;Valor
+1;2023-01-01;Notebook;Tecnologia;1;3500
+2;2023-01-02;Mouse;Acessórios;2;45
+3;2023-01-03;Cadeira Gamer;Móveis;1;1200
+4;2023-01-04;Teclado;Acessórios;3;150
+5;2023-01-05;Monitor;Tecnologia;1;900
+6;2023-01-06;Webcam;Acessórios;1;80
+7;2023-01-07;Impressora;Tecnologia;2;700
+8;2023-01-08;Mousepad;Acessórios;4;20
+9;2023-01-09;Headset;Acessórios;1;200
+10;2023-01-10;SSD;Tecnologia;1;300
+11;2023-01-11;Notebook;Tecnologia;1;3500
+12;2023-01-12;Mouse;Acessórios;2;45
+13;2023-01-13;Cadeira Gamer;Móveis;1;1200
+14;2023-01-14;Teclado;Acessórios;3;150
+15;2023-01-15;Monitor;Tecnologia;1;900
+16;2023-01-16;Webcam;Acessórios;1;80
+17;2023-01-17;Impressora;Tecnologia;2;700
+18;2023-01-18;Mousepad;Acessórios;4;20
+19;2023-01-19;Headset;Acessórios;1;200
+20;2023-01-20;SSD;Tecnologia;1;300
+21;2023-01-21;Notebook;Tecnologia;1;3500
+22;2023-01-22;Mouse;Acessórios;2;45
+23;2023-01-23;Cadeira Gamer;Móveis;1;1200
+24;2023-01-24;Teclado;Acessórios;3;150
+25;2023-01-25;Monitor;Tecnologia;1;900
+26;2023-01-26;Webcam;Acessórios;1;80
+27;2023-01-27;Impressora;Tecnologia;2;700
+28;2023-01-28;Mousepad;Acessórios;4;20
+29;2023-01-29;Headset;Acessórios;1;200
+30;2023-01-30;SSD;Tecnologia;1;300
